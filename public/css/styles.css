@@ -25,24 +25,33 @@ h1 {
 }
 fieldset {
 	border: 2px solid green;
-	width:30%;
+	width:50%;
 	height: 250px;
-	border-radius: 6px
+	border-radius: 6px;
+}
+
+legend {
+	color: green;
+	font-size:35px;
 }
 
 
 .toogle {
-	border:1px solid green;
+	border:2.5px solid green;
 	border-radius: 50%;
+	width:64px;
+	height:64px;
+	padding:1px;
+	background-color: #ffffff;
 }
 
-.fa {
-	margin: 5px;
+.fas {
+	margin: 50px;	
 }
 
 
 dd {
 	color: green;
 	margin-top:-25px;
-	font-size: 18px: 
+	font-size: 28px;
 }
