@@ -38,7 +38,7 @@ fieldset {
 	
 	border-radius: 6px;
 	min-height:350px;
-	height: 80%;
+	height: 60%;
 }
 
 
@@ -76,12 +76,26 @@ dd {
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.15);	
 	float: right;
 	width: 70%;
-	margin-top: -23%;
 }
 
 
 iframe {
-	margin-left: 25%;
+	margin-left: -43%;
 }
+
+
+.where {
+	float: right;
+	margin-top: -30%;
+}
+
+
+.lWhere {
+	background-color: green;
+	color: white;
+	width: 75%;
+	border-radius: 16px;
+}
+
 
 
