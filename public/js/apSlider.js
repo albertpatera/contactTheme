@@ -35,6 +35,7 @@ $(".row").mouseover(function() {
 	$(".row").css("padding", "52px");
 	$("img").show();
 	$("img").css("width", "25%");
+	
 
 
 })
