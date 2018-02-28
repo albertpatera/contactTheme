@@ -21,8 +21,8 @@ $(".row").mouseover(function() {
 	$(".row").css("height", "350px");
 	$(".sliderTitle").show()
 	$("img").hide(100);
-	$("body, html").css("background-color", "#000");
-	$("body, html").css("opacity", "0.5");
+	$("body").css("background-color", "#ddd");
+	$("body").css("opacity", "0.5");
 	$(".row").css("opacity", "1");
 	$(".row").css("display", "block");
 	//$(".row").slideUp(750);
@@ -35,7 +35,11 @@ $(".row").mouseover(function() {
 	$(".row").css("padding", "52px");
 	$("img").show();
 	$("img").css("width", "25%");
+	$("table").hide();
+	$(".row").css("background-color", "#fff");
 	
+	$(".row").show();
+
 
 
 })
