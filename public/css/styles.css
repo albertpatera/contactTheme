@@ -15,8 +15,9 @@ h2 {
 	color: green;
 	text-decoration: underline;
 	float: right;
-	font-family: 30px;
-	margin-left: 75%;
+	display: block;
+	margin: 0 auto;
+	margin-top: -25%;
 }
 
 .container {
@@ -34,10 +35,10 @@ h2 {
 fieldset {
 	border: 2px solid green;
 	width:45%;
-	height: 250px;
+	
 	border-radius: 6px;
 	min-height:350px;
-	height: 75%;
+	height: 80%;
 }
 
 
@@ -75,7 +76,7 @@ dd {
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.15);	
 	float: right;
 	width: 70%;
-	margin-top: -35%;
+	margin-top: -23%;
 }
 
 
