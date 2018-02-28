@@ -123,3 +123,28 @@ hr {
     margin-left: 49%;
 
 }
+
+
+table {
+	border-collapse: collapse;
+	color: forestgreen;
+
+}
+
+table td {
+	background-color: white;
+	color: forestgreen;
+	width: 25%;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+table tr {
+	border: 1px solid green;
+	color: forestgreen;
+}
+
+.small {
+	width: 2%;
+}
